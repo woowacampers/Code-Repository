@@ -1,5 +1,5 @@
 # Before PR Checklist
-다음 사항들을 확인하며, 본인의 코드가 다른 사람들이 리뷰하기 좋은 코드(Clean Code)인지 한 번 더 확인해봐요.
+다음 사항들을 확인하며, 본인의 코드가 다른 사람들이 리뷰하기 좋은 코드(Clean Code)인지 한 번 더 확인해주세요.
 
 ## Python Coding Convetion 준수하기
 * [Python Coding Style](https://www.notion.so/Python-Coding-Style-8766a04dc1c141ad81f1bb6f63e2536d)
